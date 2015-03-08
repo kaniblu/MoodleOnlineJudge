@@ -25,12 +25,12 @@
 /**
  * online judge library
  *
- * @package   local_onlinejudge
- * @copyright 2011 Sun Zhigang (http://sunner.cn)
- * @author    Sun Zhigang
+ * @package   OnlineJudge
+ * @copyright 2015 Kang Min Yoo
+ * @author    Kang Min Yoo (Originally Sun Zhigang)
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
-$plugin->version  = 2012051800;   // The (date) version of this plugin
+$plugin->version  = 2015031800;   // The (date) version of this plugin
 $plugin->requires = 2010122900;   // Requires this Moodle version
 
 $plugin->maturity  = MATURITY_BETA;
